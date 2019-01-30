@@ -1,32 +1,33 @@
-package com.nathan.week1hw;
+package com.nathan.week1.hw;
 
-public class EggStop {
-
+public class Egg2 {
+	
 	public static void main(String[] args) {
 		print1();
 		print2();
 		print3();
 		print5();
 		print6();
-		print5();
-		print6();
-		printPlus();
-		
+		System.out.println();
+		print4();
+		System.out.println();
 		print1();
 		print2();
 		print3();
-		printText();
 		print5();
 		print6();
-		
+		System.out.println();
+		print4();
+		print5();
+		print6();
+		System.out.println();
 		print1();
 		print2();
 		print3();
-		printPlus2();
-	}
-
-	private static void printText() {
-		System.out.println("|   STOP  |");
+		print4();
+		print5();
+		print6();
+		
 	}
 
 	private static void print1() {
@@ -41,13 +42,8 @@ public class EggStop {
 		System.out.println("/         \\");
 	}
 
-	private static void printPlus() {
-		System.out.println(" +-------+");
-		System.out.println();
-	}
-	
-	private static void printPlus2() {
-		System.out.println("+---------+");
+	private static void print4() {
+		System.out.println("-\"-'-\"-'-\"-");
 	}
 
 	private static void print5() {

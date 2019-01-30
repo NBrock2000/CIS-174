@@ -1,4 +1,4 @@
-package com.nathan.week1hw;
+package com.nathan.week1.hw;
 
 public class FightSong {
 	
